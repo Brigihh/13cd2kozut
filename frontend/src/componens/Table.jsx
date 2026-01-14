@@ -26,7 +26,7 @@ const Table = () => {
                     </tr>
                     <tr>
                         <td>
-                            Jane Smith
+                            Jane Smith 
                         </td>
                         <td>
                             34
